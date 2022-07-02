@@ -1,0 +1,3 @@
+23 feb 2022  sha256
+
+7fb82626fd210d1b9f4ede2189c4550c7aade3623db116376cb45bfe6e17afde  windows-7-linux_ubuntu-10-final.iso
